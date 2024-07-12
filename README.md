@@ -1,6 +1,6 @@
 # notebaseapp
 
-A new Flutter project.
+Just A Homework
 
 ## Getting Started
 
